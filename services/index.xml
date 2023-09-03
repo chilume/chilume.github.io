@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Chilume</title>
-    <link>https://www.example.com/services/</link>
+    <link>https://www.chilume.co.uk/services/</link>
     <description>Recent content in Services on Chilume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://www.example.com/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://www.chilume.co.uk/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software Engineering</title>
-      <link>https://www.example.com/services/software-engineering/</link>
+      <link>https://www.chilume.co.uk/services/software-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/services/software-engineering/</guid>
+      <guid>https://www.chilume.co.uk/services/software-engineering/</guid>
       <description>In the world of evolving technology, you need a technology partner to keep pace with changes in technology. We work collaboratively to design and build software to meet the needs of your business.</description>
     </item>
     
     <item>
       <title>Platform Engineering</title>
-      <link>https://www.example.com/services/cloud-platform/</link>
+      <link>https://www.chilume.co.uk/services/cloud-platform/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>https://www.example.com/services/cloud-platform/</guid>
+      <guid>https://www.chilume.co.uk/services/cloud-platform/</guid>
       <description>Improve your developer velocity and time to market by using cloud native tools and technologes. Using the right architecure and process will increase your agility to respond to changing business needs.</description>
     </item>
     
